@@ -153,6 +153,10 @@ Menggunakan 5 tabel relasional:
 
 **Arzaki Muhamad Fadil**
 
+**Muhammad Fachri Hafizh Saleh**
+
+**Raditya Bintang Maulana**
+
 ---
 
 ## 📄 Lisensi
