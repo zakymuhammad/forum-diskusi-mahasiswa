@@ -129,7 +129,14 @@ Menggunakan 5 tabel relasional:
 
 ## 📸 Cuplikan Layar
 
-> _Tambahkan screenshot tampilan aplikasi di sini (beranda, detail diskusi, dashboard admin)._
+### Halaman Beranda
+![Beranda Forum](screenshots/beranda.png)
+
+### Detail Diskusi
+![Detail Diskusi](screenshots/detail-diskusi.png)
+
+### Dashboard Admin
+![Dashboard Admin](screenshots/dashboard-admin.png)
 
 ---
 
