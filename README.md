@@ -159,6 +159,11 @@ Menggunakan 5 tabel relasional:
 
 ---
 
+**Youtube**
+https://youtu.be/loKz88Va9Mg
+
+---
+
 ## 📄 Lisensi
 
 Project ini dilisensikan di bawah **MIT License** — bebas digunakan untuk keperluan belajar.
